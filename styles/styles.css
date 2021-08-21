@@ -2,6 +2,10 @@
 
 }
 
+body {
+  margin-left: -150px;
+}
+
 #start-game-button {
   border: 0;
   box-shadow: 0;
